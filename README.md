@@ -1,6 +1,6 @@
 # iot-mqtt-ultrasonic-distance-sensor
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/romware/iot-mqtt-ultrasonic-distance-sensor)
+![version](https://img.shields.io/badge/version-1.0.0-blue)
 
 **iot-mqtt-ultrasonic-distance-sensor** is an IoT demo using ultrasonic distance sensing with live data sent via MQTT on a Raspberry Pi.
 
